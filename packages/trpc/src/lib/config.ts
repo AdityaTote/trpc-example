@@ -1,0 +1,1 @@
+export const TRPC_URL="http://locahost:3000"
