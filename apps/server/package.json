@@ -4,7 +4,7 @@
     "type": "module",
     "private": true,
     "devDependencies": {
-        "@repo/trpc": "workspace: *",
+        "@repo/trpc": "workspace:*",
         "@types/bun": "latest"
     },
     "peerDependencies": {
